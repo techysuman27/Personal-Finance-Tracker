@@ -4,6 +4,12 @@ An interactive and visually appealing **Personal Finance Dashboard** built in **
 
 ---
 
+## 📸 Visual Preview
+
+![Finance Dashboard Preview](./asset/PersonalFinanceDashboard.png)
+
+---
+
 ## 📂 Project Structure & Workflow
 
 This Excel-based project follows a **3-layer architecture**:
@@ -83,13 +89,6 @@ The `Calculations` sheet is dedicated to:
 - 🍩 **Income Source Distribution** with percentage-wise donut chart
 - 🌘 **Dark Theme Dashboard** for a clean and modern user experience
 
----
-
-## 📸 Visual Preview
-
-![Finance Dashboard Preview](./asset/PersonalFinanceDashboard.png)
-
----
 
 ## 🛠 Tools & Techniques Used
 
