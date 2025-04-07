@@ -87,7 +87,7 @@ The `Calculations` sheet is dedicated to:
 
 ## 📸 Visual Preview
 
-![Finance Dashboard Preview](./assets/PersonalFinanceDashboard.png)
+![Finance Dashboard Preview](./asset/PersonalFinanceDashboard.png)
 
 ---
 
